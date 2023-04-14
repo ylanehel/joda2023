@@ -4,3 +4,4 @@ lectures/venv/
 lectures/lecture02/data/
 .data/
 demo/tweet_classifier/data/
+demo/tweet_classifier/venv/
