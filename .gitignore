@@ -3,3 +3,5 @@ lectures/venv/
 .ipynb_checkpoints
 lectures/lecture02/data/
 .data/
+demo/tweet_classifier/data/
+demo/tweet_classifier/venv/
